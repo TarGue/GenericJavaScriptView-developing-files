@@ -31,6 +31,9 @@ Recommended libraries are:
 
 The Node uses require.js for connection with libraries.
 
+You can read KNIME input data via variables like:
+ var location = knimeDataTable.getColumn(0);
+
 Pros of the Generic JavaScriptView in KNIME:
 * embedded the power of advanced web frontends in KNIME
 * good reason to learn JS

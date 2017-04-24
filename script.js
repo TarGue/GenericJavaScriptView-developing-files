@@ -27,6 +27,12 @@ require(['Name'], function (Name) {
 })();                //This brackets has to be at the end of your filte
 */
 
+/************************************************Variables***********************************************************/
+
+//Sample for using KNIME Data in the Node
+
+ //var location = knimeDataTable.getColumn(0);
+
 
 /***************************************************HTML*********************************************************/
 //$(document.body).append(' "HTML" ')
@@ -42,7 +48,10 @@ require(['Name'], function (Name) {
 
   );
   
-/***********************************JavaScript****************************************************/
+/***********************************************JavaScript****************************************************/
+ 
+ 
+
 
 /*Sample for jQuery function*/
 $(document).ready(function(){
