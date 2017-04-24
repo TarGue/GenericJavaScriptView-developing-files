@@ -5,12 +5,15 @@ The files in this repository provide the structure of the code environment for t
 Please do not use the Index HTML in this repo! The node provides only JavaScript and CSS code implementation. 
 HTML should be generated into the JavaScript code.
 
+Copy and paste the Code of the style.css file and the script.js code into the Generic Java Script Node.
+You can trie it with the sample code in the files.
+
 The Repository should help to build new code for the node. It’s embedded debugging and testing in the browser. 
 It is recommended to use an Script Editor or IDE like:
-* Webstorm IDE
-* Atom
-* Visual Studio Code
-* Sublime
+
+* Atom (https://atom.io/)
+* Visual Studio Code (https://code.visualstudio.com/)
+* Sublime (https://www.sublimetext.com/)
 
 For Inspiration feel free to look at this Blogpost in the KNIME community:
 * https://tech.knime.org/forum/knime-developers/cytoscapejs-and-generic-javascript-view
@@ -18,13 +21,13 @@ For Inspiration feel free to look at this Blogpost in the KNIME community:
 * https://tech.knime.org/forum/knime-labs-general/feature-request-generic-javascript-view
 
 
-Recommended Libraries are:
+Recommended libraries are:
 * D3
 * jQuery
 * Bootstrap
 * Materializecss
 * Plotly
-* …
+* Cytoscape
 
 The Node uses require.js for connection with libraries.
 
