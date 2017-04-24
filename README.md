@@ -33,9 +33,9 @@ Pros of the Generic JavaScriptView in KNIME:
 * good reason to learn JS
 
 Cons:
-*complex structure to build HTML
-*Limited Output Options
-*Limited Options to use internally installed libraries and image files
+* complex structure to build HTML
+* Limited Output Options
+* Limited Options to use internally installed libraries and image files
 
 
 For more advanced tasks were you need data-outputs we recommend to use the JavaScript Node Development in KNIME.
