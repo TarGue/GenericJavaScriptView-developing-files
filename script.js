@@ -24,7 +24,7 @@ require(['Name'], function (Name) {
 
 
 /*
-})();                //This brackets has to be at the end of your filte
+})();                //This brackets has to be at the end of your file
 */
 
 /************************************************Variables***********************************************************/
