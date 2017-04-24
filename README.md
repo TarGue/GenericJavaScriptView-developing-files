@@ -7,24 +7,24 @@ HTML should be generated into the JavaScript code.
 
 The Repository should help to build new code for the node. It’s embedded debugging and testing in the browser. 
 It is recommended to use an Script Editor or IDE like:
-*Webstorm IDE
-*Atom
-*Visual Studio Code
-*Sublime
+* Webstorm IDE
+* Atom
+* Visual Studio Code
+* Sublime
 
 For Inspiration feel free to look at this Blogpost in the KNIME community:
-*https://tech.knime.org/forum/knime-developers/cytoscapejs-and-generic-javascript-view
-*https://tech.knime.org/forum/knime-general/google-maps-api-in-generic-javascript-view
-*https://tech.knime.org/forum/knime-labs-general/feature-request-generic-javascript-view
+* https://tech.knime.org/forum/knime-developers/cytoscapejs-and-generic-javascript-view
+* https://tech.knime.org/forum/knime-general/google-maps-api-in-generic-javascript-view
+* https://tech.knime.org/forum/knime-labs-general/feature-request-generic-javascript-view
 
 
 Recommended Libraries are:
-*D3
-*jQuery
-*Bootstrap
-*Materializecss
-*Plotly
-*…
+* D3
+* jQuery
+* Bootstrap
+* Materializecss
+* Plotly
+* …
 
 The Node uses require.js for connection with libraries.
 
