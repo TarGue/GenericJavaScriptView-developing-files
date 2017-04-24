@@ -1,11 +1,11 @@
 # GenericJavaScript-View-developing-files.
 
-The files in this repository provide the structure of the code environment for the GenericJavaScriptView Node in Knime. 
+The files in this repository provide the structure of the code environment for the GenericJavaScriptView node in Knime. 
 
 Please do not use the Index HTML in this repo! The node provides only JavaScript and CSS code implementation. 
 HTML should be generated into the JavaScript code.
 
-Copy and paste the Code of the style.css file and the script.js code into the Generic Java Script Node.
+Copy and paste the code of the style.css file and the script.js code into the GenericJavaScriptView node.
 You can trie it with the sample code in the files.
 
 The Repository should help to build new code for the node. It’s embedded debugging and testing in the browser. 
@@ -15,7 +15,7 @@ It is recommended to use an Script Editor or IDE like:
 * Visual Studio Code (https://code.visualstudio.com/)
 * Sublime (https://www.sublimetext.com/)
 
-For Inspiration feel free to look at this Blogpost in the KNIME community:
+For inspirations feel free to look at this Blogposts in the KNIME community:
 * https://tech.knime.org/forum/knime-developers/cytoscapejs-and-generic-javascript-view
 * https://tech.knime.org/forum/knime-general/google-maps-api-in-generic-javascript-view
 * https://tech.knime.org/forum/knime-labs-general/feature-request-generic-javascript-view
@@ -45,7 +45,7 @@ For more advanced tasks were you need data-outputs we recommend to use the JavaS
 
 Feel free for use.
 
-Happy Coding
+Happy coding < > 
 
 
 
