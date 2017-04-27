@@ -7,7 +7,7 @@ require.config({
   }
 });
 
-require(['jQuery320'], function (jQuery320) {                                   // Call the librarie
+require(['jQuery320'], function () {                                   // Call the librarie
 
 /*
 Sample:
