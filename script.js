@@ -44,7 +44,7 @@ require(['Name'], function (Name) {
 
   $(document.body).append('<div class="card"><h1>Hello World!</h1>'+                                    //Text
   '<button>Please Click Me!</button>'+                                              // Sample for a Button ELement 
-  '<div class="img"><img src="https://cdn0.iconfinder.com/data/icons/social-icons-20/200/github-icon-128.png"></div></div>' // Image
+  '<div class="img"><a href="https://github.com/TarGue/GenericJavaScriptView-developing-files" target="_blank" ><img src="https://cdn0.iconfinder.com/data/icons/social-icons-20/200/github-icon-128.png"></a></div></div>' // Image
 
   );
   
