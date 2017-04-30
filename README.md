@@ -14,6 +14,7 @@ It is recommended to use an Script Editor or IDE like:
 * Atom (https://atom.io/)
 * Visual Studio Code (https://code.visualstudio.com/)
 * Sublime (https://www.sublimetext.com/)
+* Brackets (http://brackets.io/)
 
 For inspirations feel free to look at this Blogposts in the KNIME community:
 * https://tech.knime.org/forum/knime-developers/cytoscapejs-and-generic-javascript-view
